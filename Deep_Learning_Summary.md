@@ -5,8 +5,6 @@ select applications for funding with the highest change of success.
 
 
 
-
-
                     ***Results***
 -----------------------------------------------------
 **Data Preprocessing**
@@ -49,7 +47,7 @@ However, while I kept the activation function in the second layer as "relu" in t
 
 *Were you able to achieve the target model performance?*
 -----------------------------------------------------
-Despite my attempts, the highest accuracy rating I was able to get was 73% in both version 2 and 3 of my optimization attempts.
+I was not able to, the highest accuracy rating I was able to get was 73% in both version 2 and 3 of my optimization attempts.
 
 
 *What steps did you take in your attempts to increase model performance?*
@@ -62,7 +60,5 @@ Despite my attempts, the highest accuracy rating I was able to get was 73% in bo
 
 **Summary:**
  -----------------------------------------------------
- Summarize the overall results of the deep learning model.
-  Include a recommendation for how a different model could solve this classification problem, 
-  and then explain your recommendation.
-
+Overall, through my attempts of trying to reach an accuracy score of 75% i was only able to reach 73%.
+Both my second and third versions ended up using more neurons and layers than the first version, and were only slightly more accurate.
